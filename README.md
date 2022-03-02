@@ -8,7 +8,7 @@ My story is really _cliché_: Boy loves code, believes that code is just for mat
 <img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/html.png" height="90" /> <img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/css3.png" height="90" /> <img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/js.png" height="90" />
 
 ### I'm currently learning:
-<img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/react.png" height="90" /> <img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/js.png" height="90" />
+<img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/react.png" height="90" /> <img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/js.png" height="90" /> **(more advanced stuff)**
 
 ### I've bought a Udemy course about and I swear that I'll eventually start it:
 <img align="center" src="https://github.com/ElMolinillo/ElMolinillo/blob/main/sass.png" height="90" />
